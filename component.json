@@ -1,0 +1,17 @@
+{
+  "name": "tmdb",
+  "repo": "danzajdband/tmdb",
+  "description": "TheMovieDB.org wrapper for the browser",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "learnboost/jsonp": "*",
+    "component/querystring": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js",
+		"endpoints.js"
+  ]
+}
